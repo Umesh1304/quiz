@@ -1,0 +1,13 @@
+/* Custom CSS */
+.quiz-container {
+    margin-top: 20px;
+}
+
+.question {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
